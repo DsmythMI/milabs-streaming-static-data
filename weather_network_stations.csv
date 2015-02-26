@@ -1,4 +1,5 @@
 id,type,source,description,website,town,lat,lon
+mi-weather-static,weather station,http://dmagsdev/wx/clientraw.txt,"Marine Institute Weather","http://www.marine.ie/","Rinville, Oranmore, Co. Galway, Ireland, Europe",53.25,-8.98
 mayoweather-static,weather station,http://www.mayoweather.info/clientraw.txt,"(Mayo Weather is offline)","http://www.mayoweather.info/","Ballyhaunis, Ireland, Europe",53.728805,-8.784325
 cloughfernweather-static,weather station,http://sproule.co.uk/clientraw.txt,"Cloughfern Weather","http://sproule.co.uk/","Cloughfern, Co. Antrim, Ireland, Europe",53.5006,-7.11139
 blackstairs-weather-static,weather station,http://www.reachbroadband.com/weather/clientraw.txt,"Blackstairs Weather Station","http://www.reachbroadband.com/weather/","Blackstairs, Co. Carlow, Ireland, Europe",52.66,-6.71
