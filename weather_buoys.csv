@@ -1,0 +1,6 @@
+id,device_id,type,source,description,website,town,lat,lon
+BallybunionBuoy-static,BallybunionBuoy,weather buoy,BallybunionBuoy,"Type 1 buoy, off the West coast of Kerry",https://twitter.com/ballybunionbuoy,"Off the West coast of Kerry, Ireland",52.5457,-9.782
+ConingbegBuoy-static,ConingbegBuoy,weather buoy,ConingbegBuoy,"Type 1 South Cardinal Marker, off the south coast near Wexford",https://twitter.com/ConingbegBuoy,"Off the south coast near Wexford, Ireland",52.0533,-6.64278
+DublinBayBuoy-static,DublinBayBuoy,weather buoy,DublinBayBuoy,"Type 1 Safe Water Mark, situated in Dublin Bay between Howth and Dun Laoghaire",https://twitter.com/dublinbaybuoy,"In Dublin Bay between Howth and Dun Laoghaire",53.33187,-6.07743
+FinnisBuoy-static,FinnisBuoy,weather buoy,FinnisBuoy,"First class East Cardinal marker, situated by the Finnis Rock to the East of Inisheer in the Aran Islands",http://twitter.com/finnisbuoy,"To the East of Inisheer in the Aran Islands, Ireland",53.04687,-9.48543
+SplaughBuoy-static,SplaughBuoy,weather buoy,SplaughBuoy,"Type 2 Port Lateral Marker, situated off the Wexford coast near Rosslare",https://twitter.com/splaughbuoy,"Off the Wexford coast near Rosslare, Ireland",52.23938,-6.27973
